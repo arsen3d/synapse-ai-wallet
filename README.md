@@ -13,3 +13,11 @@ The yellowpaper describing the official technical spec has not been released.
 # Resource List
 * [synapse.ai](https://synapse.ai/ "https://synapse.ai/")
 * [whitepaper.pdf](https://s3.amazonaws.com/synapseai/whitepaper/whitepaper.pdf)
+
+
+
+#Project Philosophy
+* Open Source
+
+# Video List
+* [Vitalik Buterin: DAO Lessons, Casper and Blockchain Interoperability (Episode 171)] (https://www.youtube.com/watch?v=3p8CGBgLTZQ)
