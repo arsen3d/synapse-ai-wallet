@@ -11,3 +11,5 @@ The yellowpaper describing the official technical spec has not been released.
 
 
 # Resource List
+* [link](https://synapse.ai/ "https://synapse.ai/")
+* [link](https://s3.amazonaws.com/synapseai/whitepaper/whitepaper.pdf)
