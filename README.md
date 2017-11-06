@@ -22,6 +22,7 @@ The yellowpaper describing the official technical spec has not been released.
 * Storage Pool (Gives you space like dropbox. Get paid for your space or pay for distributed space)
 * Browsing Monitor based on Chrome Extension
 * Notification (User Pays for Getting Notified by Services)
+* Facebook Exporter
 
 # General Architecture
 ## Phase 1
