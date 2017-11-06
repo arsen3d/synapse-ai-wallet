@@ -16,8 +16,8 @@ The yellowpaper describing the official technical spec has not been released.
 
 
 
-#Project Philosophy
+# Project Philosophy
 * Open Source
 
 # Video List
-* [Vitalik Buterin: DAO Lessons, Casper and Blockchain Interoperability (Episode 171)] (https://www.youtube.com/watch?v=3p8CGBgLTZQ)
+* [Vitalik Buterin: DAO Lessons, Casper and Blockchain Interoperability (Episode 171)](https://www.youtube.com/watch?v=3p8CGBgLTZQ)
