@@ -4,6 +4,15 @@ It's based my vision of how I see users plugin into the Sysnpase AI network.
 At the ime of this writing I've only read the whitepaper and had a brainstorm session with Synapse AI CEO.
 The yellowpaper describing the official technical spec has not been released.
 
+# How to Install
+## From Binary
+### OSX
+
+### Win
+## From Source
+### OSX
+
+### Win
 # General Architecture
 ## Phase 1
 
