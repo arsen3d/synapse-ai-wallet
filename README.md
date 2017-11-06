@@ -31,7 +31,12 @@ The yellowpaper describing the official technical spec has not been released.
 * Keep track of filesize for analytics
 * Encrypt Data using wallet private key
 * Pay in Synth based on Syn per GB per Second
-*
+#### How
+* Create Electron Project
+* > https://electron.atom.io/
+* Launch docker from javascript
+* Syncrhonize Directory on host with directory in docker, encrypting the file and directory structure
+* Have Docker Instance synchronize with 5 other nodes to create fault tolarance
 ## Phase 2
 
 
