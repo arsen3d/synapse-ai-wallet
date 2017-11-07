@@ -28,6 +28,7 @@ The yellowpaper describing the official technical spec has not been released.
 ## Phase 1
 ### Data Pools
 #### Get/Set your own data to containers on the network.
+* [Develop Tests to validate data containers](https://codefresh.io/blog/guide-automate-tests-docker-microservice-driven-applications/?utm_medium=facebook-ad&utm_campaign=Facebook-Lookalike&utm_source=facebook&utm_term=Guide)
 * Keep track of filesize for analytics
 * Encrypt Data using wallet private key
 * Pay in Synth based on Syn per GB per Second
